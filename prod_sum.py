@@ -3,7 +3,7 @@ Submitted by : Arghyadeep Bhattacharjee
 Algorithm    : For each recursive call the 'mult' argument
                is multplied with the parent multiplier to get the
                parent multiplier of the next call.
-Time take    : 10 mins (approx)
+Time taken    : 10 mins (approx)
 Tested in    : Pytest (test file attached)
 """
 
